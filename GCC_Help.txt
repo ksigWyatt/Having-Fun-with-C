@@ -1,0 +1,13 @@
+Compiling a program using GCC
+
+use command: hello will become hello.exe after compilation
+gcc -o hello hello.c
+
+
+to run hello.exe type:
+./hello
+
+the output will follow in the terminal lines below
+
+
+Add this to the last line of the .profile file under /home
